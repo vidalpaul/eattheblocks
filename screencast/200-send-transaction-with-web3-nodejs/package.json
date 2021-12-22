@@ -1,0 +1,15 @@
+{
+  "name": "200-send-transaction-with-web3-nodejs",
+  "version": "1.0.0",
+  "description": "sending address: 0xAD8eD8FBA46BA6bE9120d0aEc43109A0543b69d3 Private key: d448c9224e0bcf3a6475fb54a34056fb02ef469d1f5f8520bc0f6e443bde68c4",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "web3": "^1.6.1"
+  }
+}
