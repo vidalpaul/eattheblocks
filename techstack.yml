@@ -1,0 +1,2199 @@
+repo_name: vidalpaul/eattheblocks
+report_id: eea42a6001e5ea115b11df57a5d7ef64
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T01:33:19+00:00'
+requested_by: vidalpaul
+provider: github
+branch: master
+detected_tools_count: 151
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: Jinja
+  description: Full featured template engine for Python
+  website_url: https://palletsprojects.com/p/jinja/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2303/New_Project__20_.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/294-cryptocurrency-sentiment-analysis/requirements.txt
+  detection_source: screencast/294-cryptocurrency-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-02-06 18:13:03.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-14 08:54:31.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.9.4
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/244-prediction-market-us-elections/frontend/package-lock.json
+  detection_source: screencast/244-prediction-market-us-elections/frontend/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-10-20 19:01:17.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: screencast/3-import-abi-frontend/2-backend-server/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-04-16 08:26:42.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/184-build-defi-api/package-lock.json
+  detection_source: screencast/184-build-defi-api/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-26 09:30:23.000000000 Z
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:05:14.000000000 Z
+- name: Next.js
+  description: A small framework for server-rendered universal JavaScript apps
+  website_url: https://nextjs.org/
+  version: 10.0.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/defi-development-mastery/3-project-compound-dashboard/package-lock.json
+  detection_source: defi-development-mastery/3-project-compound-dashboard/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-12-21 11:02:02.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-15 09:07:27.000000000 Z
+- name: React Hot Loader
+  description: Tweak React components in real time
+  website_url: http://gaearon.github.io/react-hot-loader/
+  version: 4.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/todolist/step10/package-lock.json
+  detection_source: todolist/step_drizzle_1/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2018-12-15 15:48:11.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day25-tweeter/frontend/end/app/package-lock.json
+  detection_source: dapp-30/day25-tweeter/frontend/end/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-02 07:49:46.000000000 Z
+- name: Recharts
+  description: Redefined chart library built with React and D3
+  website_url: http://recharts.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/5608/13690587.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-15 09:07:27.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.5.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-14 08:54:31.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: Vue.js
+  description: A progressive framework for building user interfaces
+  website_url: http://vuejs.org/
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3837/paeckCWC.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/dex-erc20/finished/package.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/todolist-2-0/finished/app/package-lock.json
+  detection_source: draft/todolist-2-0/finished/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: vuex
+  description: Centralized State Management for Vue.js.
+  website_url: https://vuex.vuejs.org
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: Ethereum
+  description: Open source platform to write and distribute decentralized applications
+  website_url: https://ethereum.org
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Blockchain
+  image_url: https://img.stackshare.io/service/1634/default_dacdb57c0b4f9d422e4a23aed8b9bbf7a6024fed.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/gas-reduction/store-hash-not-data/package.json
+  detection_source: draft/gas-reduction/store-hash-not-data/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 5.10.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/232-blockchain-ecommerce-app/backend/package-lock.json
+  detection_source: screencast/232-blockchain-ecommerce-app/backend/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-09-23 18:43:43.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/4-crypto-trading-bot/arbitrage/package.json
+  detection_source: live-trainings/4-crypto-trading-bot/arbitrage/package.json
+  last_updated_by: dhruvinparikh
+  last_updated_on: 2021-06-17 22:24:48.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/dex-erc20/finished/package.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.8.0
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 3.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day17-event-organization/tests/end/package-lock.json
+  detection_source: todolist/step_metamask/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2018-12-15 15:56:14.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 1.15.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day10-escrow/frontend/end/client/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 5.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/406-cryptokitties-nft-bot/package.json
+  detection_source: screencast/406-cryptokitties-nft-bot/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-09-17 03:13:37.000000000 Z
+- name: TRUFFLE
+  description: A development environment for Ethereum
+  website_url: https://www.trufflesuite.com/truffle
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/8417/gMnhPuhq_400x400.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/profitable-flashloans/bonus-1-test-flashloan/package.json
+  detection_source: profitable-flashloans/bonus-1-test-flashloan/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-07-12 20:21:06.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.41.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: dapp-30/day4-advanced-storage/frontend/end/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-08-19 03:35:21.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/yarn.lock
+  detection_source: blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/yarn.lock
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-07-14 21:01:51.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/token/airdrop/package.json
+  detection_source: token/airdrop/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-04-24 20:48:11.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-15 09:07:27.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.19.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:05:14.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/1-fork-safemoon/package-lock.json
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: solidity
+  description: How people build software
+  website_url: https://ethereum.github.io/solidity/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4959/1__IS8pZzkhvd6kUbSFpSgag.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks
+  detection_source: Repo Metadata
+- name: web3
+  website_url: https://github.com/ethereum/web3.js/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8418/no-img-open-source.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-14 08:54:31.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.17.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: screencast/3-import-abi-frontend/2-backend-server/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-04-16 08:26:42.000000000 Z
+  vulnerabilities:
+  - name: qs vulnerable to Prototype Pollution
+    cve_id: CVE-2022-24999
+    cve_url: https://github.com/advisories/GHSA-hrpp-h998-j3pp
+    detected_date: Dec 7
+    severity: high
+    first_patched: 4.17.3
+  - name: Express.js Open Redirect in malformed URLs
+    cve_id: CVE-2024-29041
+    cve_url: https://github.com/advisories/GHSA-rv95-896h-c2vc
+    detected_date: Mar 26
+    severity: moderate
+    first_patched: 4.19.2
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-15 09:07:27.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-14 08:54:31.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.88.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: live-trainings/4-crypto-trading-bot/arbitrage/package.json
+  last_updated_by: dhruvinparikh
+  last_updated_on: 2021-06-17 22:24:48.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched:
+- name: web3
+  description: Ethereum JavaScript API
+  package_url: https://www.npmjs.com/web3
+  version: 1.2.1
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16369/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-14 08:54:31.000000000 Z
+  vulnerabilities:
+  - name: Insecure Credential Storage in web3
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-27v7-qhfv-rqq8
+    detected_date: Aug 22
+    severity: low
+    first_patched:
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 0.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 7.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: "@babel/polyfill"
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/@babel/polyfill
+  version: 7.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/dex-erc20/finished/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.8.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/package-lock.json
+  detection_source: blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-07-14 21:01:51.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/package-lock.json
+  detection_source: blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-07-14 21:01:51.000000000 Z
+- name: "@types/bn.js"
+  description: TypeScript definitions for bn.js
+  package_url: https://www.npmjs.com/@types/bn.js
+  version: 4.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18462/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: draft/todolist-typescript/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 2.8.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 10.17.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 16.9.34
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/package-lock.json
+  detection_source: draft/todolist-typescript/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 16.9.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-3-frontend/10-read-smart-contract-data-from-frontend/client/package-lock.json
+  detection_source: draft/todolist-typescript/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: "@vue/cli-plugin-babel"
+  description: Babel plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-babel
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: "@vue/cli-plugin-eslint"
+  description: Eslint plugin for vue-cli
+  package_url: https://www.npmjs.com/@vue/cli-plugin-eslint
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: "@vue/cli-service"
+  description: Local service for vue-cli projects
+  package_url: https://www.npmjs.com/@vue/cli-service
+  version: 3.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: "@vue/eslint-config-prettier"
+  description: Eslint-config-prettier for Vue CLI
+  package_url: https://www.npmjs.com/@vue/eslint-config-prettier
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16824/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: awesome-typescript-loader
+  description: Awesome TS loader for webpack
+  package_url: https://www.npmjs.com/awesome-typescript-loader
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16085/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/todolist-typescript/finished/package-lock.json
+  detection_source: draft/todolist-typescript/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-4-deployment/5-configure-truffle-to-use-infura/package-lock.json
+  detection_source: todolist/step10/package.json
+  last_updated_by: Mark Romano
+  last_updated_on: 2018-10-05 01:35:26.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: babel-plugin-transform-object-rest-spread
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/babel-plugin-transform-object-rest-spread
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15880/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: todolist/step_drizzle_2/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2018-12-15 15:48:11.000000000 Z
+- name: babel-polyfill
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/babel-polyfill
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/3-import-abi-frontend/4-truffle-solidity-loader/app/package-lock.json
+  detection_source: todolist/step10/package.json
+  last_updated_by: Mark Romano
+  last_updated_on: 2018-10-05 01:35:26.000000000 Z
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/wallet-4-deployment/5-configure-truffle-to-use-infura/package-lock.json
+  detection_source: todolist/step10/package.json
+  last_updated_by: Mark Romano
+  last_updated_on: 2018-10-05 01:35:26.000000000 Z
+- name: babel-preset-react
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/babel-preset-react
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15825/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/cryptorobots/client/package-lock.json
+  detection_source: todolist/step10/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2018-12-15 15:48:11.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 2.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: live-trainings/4-crypto-trading-bot/arbitrage/package.json
+  last_updated_by: dhruvinparikh
+  last_updated_on: 2021-06-17 22:24:48.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: csv
+  description: CSV parser with simple api
+  package_url: https://www.npmjs.com/csv
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/token/airdrop/package-lock.json
+  detection_source: token/airdrop/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-04-24 20:48:11.000000000 Z
+- name: eslint-config-next
+  description: ESLint configuration used by Next.js
+  package_url: https://www.npmjs.com/eslint-config-next
+  version: 11.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/5-ethereum-nft-marketplace/marketplace-complete/yarn.lock
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: eslint-plugin-vue
+  description: Official ESLint plugin for Vue.js
+  package_url: https://www.npmjs.com/eslint-plugin-vue
+  version: 4.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: ethereumjs-util
+  description: A collection of utility functions for Ethereum
+  package_url: https://www.npmjs.com/ethereumjs-util
+  version: 6.2.0
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16835/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: draft/gas-reduction/store-hash-not-data/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: ethers
+  description: Umbrella package for most common Ethers libraries
+  package_url: https://www.npmjs.com/ethers
+  version: 4.0.45
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17297/default_3ec53c4dad64de27b72cc81401e898b5aea82f2c.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-2-testing/10-test-create-market-order-happy-path/package-lock.json
+  detection_source: defi-development-mastery/4-project-yield-farming/frontend/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-12-21 11:02:02.000000000 Z
+- name: expect
+  description: This package exports the `expect` function used in [Jest]
+  package_url: https://www.npmjs.com/expect
+  version: 24.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16110/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: todolist/step_metamask/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2018-12-15 15:56:14.000000000 Z
+- name: ganache-cli
+  description: '&lt;p align="center"&gt; &lt;em&gt;NOTICE&lt;/em&gt;: &lt;code&gt;testrpc&lt;/code&gt;
+    is now &lt;code&gt;ganache-cli&lt;/code&gt;'
+  package_url: https://www.npmjs.com/ganache-cli
+  version: 6.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17271/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day17-event-organization/tests/end/package-lock.json
+  detection_source: todolist/step_metamask/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2018-12-15 15:56:14.000000000 Z
+- name: googleapis
+  description: Google APIs Client Library for Node.js
+  package_url: https://www.npmjs.com/googleapis
+  version: 39.2.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/381-crypto-accounting/package-lock.json
+  detection_source: screencast/381-crypto-accounting/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-07-29 06:58:58.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 4.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: json-loader
+  description: Json loader module for webpack
+  package_url: https://www.npmjs.com/json-loader
+  version: 0.5.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15995/default_200de1a6fc4121e019ce4a5b0cf9ad37c7756e2d.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/cryptorobots/client/package-lock.json
+  detection_source: draft/todolist-typescript/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 2.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 0.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: koa-static
+  description: Static file serving middleware for koa
+  package_url: https://www.npmjs.com/koa-static
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16538/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/318-create-nft/backend/package-lock.json
+  detection_source: screencast/318-create-nft/backend/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-03-20 16:04:24.000000000 Z
+- name: openzeppelin-solidity
+  description: Secure Smart Contract library for Solidity
+  package_url: https://www.npmjs.com/openzeppelin-solidity
+  version: 1.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18068/image.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/cryptorobots/package-lock.json
+  detection_source: draft/cryptorobots/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: popper.js
+  description: A kickass library to manage your poppers
+  package_url: https://www.npmjs.com/popper.js
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16357/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/todolist-2-0/finished/app/package-lock.json
+  detection_source: draft/todolist-2-0/finished/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-15 09:07:27.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day25-tweeter/frontend/end/app/package-lock.json
+  detection_source: dapp-30/day25-tweeter/frontend/end/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-02 07:49:46.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-05-15 09:07:27.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/16-drizzle-react-events/app/package-lock.json
+  detection_source: screencast/16-drizzle-react-events/app/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 16:37:56.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/dex-erc20/finished/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 18:07:58.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/live-trainings/5-ethereum-nft-marketplace/marketplace-complete/yarn.lock
+  detection_source: live-trainings/5-ethereum-nft-marketplace/marketplace-complete/package.json
+  last_updated_by: dabit3
+  last_updated_on: 2021-06-23 02:01:54.000000000 Z
+- name: truffle-contract
+  description: A better contract abstraction for Ethereum
+  package_url: https://www.npmjs.com/truffle-contract
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18163/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/cryptorobots/client/package-lock.json
+  detection_source: draft/cryptorobots/client/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: truffle-hdwallet-provider
+  description: HD Wallet-enabled Web3 provider
+  package_url: https://www.npmjs.com/truffle-hdwallet-provider
+  version: 1.0.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17771/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day5-crud/frontend/end/package-lock.json
+  detection_source: dapp-30/day5-crud/frontend/end/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-09-25 20:39:44.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.11.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: vue
+  description: Vue
+  package_url: https://www.npmjs.com/vue
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: vue-template-compiler
+  description: Template compiler for Vue 2.0
+  package_url: https://www.npmjs.com/vue-template-compiler
+  version: 2.6.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/12-drizzle-vue-dapp-basic/end/vapp/package-lock.json
+  detection_source: screencast/12-drizzle-vue-dapp-basic/end/vapp/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-06-26 08:16:19.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day4-advanced-storage/frontend/end/package-lock.json
+  detection_source: dapp-30/day4-advanced-storage/frontend/end/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-08-19 03:35:21.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.10.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: dapp-30/day4-advanced-storage/frontend/end/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2019-08-19 03:35:21.000000000 Z
+- name: websocket
+  description: Websocket Client &amp; Server Library implementing the WebSocket protocol
+    as specified in RFC 6455
+  package_url: https://www.npmjs.com/websocket
+  version: 1.0.29
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16782/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/dapp-30/day5-crud/frontend/end/package-lock.json
+  detection_source: screencast/406-cryptokitties-nft-bot/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-09-17 03:13:37.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/blockchain-masterclass/dex-3-frontend/10-integrate-header-into-app/client/package-lock.json
+  detection_source: screencast/406-cryptokitties-nft-bot/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-09-17 03:13:37.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.8.29
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/draft/voting-dapp-angular/package-lock.json
+  detection_source: draft/voting-dapp-angular/package.json
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2020-02-14 17:51:25.000000000 Z
+- name: joblib
+  description: 'Lightweight pipelining: using Python functions as pipeline jobs'
+  package_url: https://pypi.org/project/joblib
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20033/default_5a21cf44b42c3ef13f57dcd42ae753240ea7e808.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+  vulnerabilities:
+  - name: joblib vulnerable to arbitrary code execution
+    cve_id: CVE-2022-21797
+    cve_url: https://github.com/advisories/GHSA-6hrg-qmvc-2xh8
+    detected_date: Sep 30
+    severity: critical
+    first_patched: 1.2.0
+- name: certifi
+  description: Python package for providing Mozilla's CA Bundle
+  package_url: https://pypi.org/project/certifi
+  version: 2020.12.5
+  license: MPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19849/default_75c38a39b9f0062814489e2ec2cbfca0ca15d9ba.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+  vulnerabilities:
+  - name: Removal of e-Tugra root certificate
+    cve_id: CVE-2023-37920
+    cve_url: https://github.com/advisories/GHSA-xqr8-7jwr-rhp7
+    detected_date: Jul 26
+    severity: high
+    first_patched: 2023.7.22
+  - name: Certifi removing TrustCor root certificate
+    cve_id: CVE-2022-23491
+    cve_url: https://github.com/advisories/GHSA-43fp-rhv2-5gv8
+    detected_date: Dec 8
+    severity: moderate
+    first_patched: 2022.12.07
+- name: nltk
+  description: Natural Language Toolkit
+  package_url: https://pypi.org/project/nltk
+  version: '3.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20023/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:05:14.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in nltk (word_tokenize, sent_tokenize)
+    cve_id: CVE-2021-43854
+    cve_url: https://github.com/advisories/GHSA-f8m6-h2c7-8h9x
+    detected_date: Jan 7
+    severity: high
+    first_patched: 3.6.6
+  - name: NLTK Vulnerable to REDoS
+    cve_id: CVE-2021-3842
+    cve_url: https://github.com/advisories/GHSA-rqjh-jp2r-59cj
+    detected_date: Jan 7
+    severity: high
+    first_patched: 3.6.6
+  - name: NLTK Vulnerable to REDoS
+    cve_id: CVE-2021-3828
+    cve_url: https://github.com/advisories/GHSA-2ww3-fxvq-293j
+    detected_date: Sep 30
+    severity: high
+    first_patched: 3.6.4
+- name: urllib3
+  description: HTTP library with thread-safe connection pooling
+  package_url: https://pypi.org/project/urllib3
+  version: 1.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19842/default_4604ff5dcb7f4d9c7b3833591c2142493951b19c.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+  vulnerabilities:
+  - name: Catastrophic backtracking in URL authority parser when passed URL containing
+      many @ characters
+    cve_id: CVE-2021-33503
+    cve_url: https://github.com/advisories/GHSA-q2q7-5pp4-w6pg
+    detected_date: Aug 22
+    severity: high
+    first_patched: 1.26.5
+  - name: Using default SSLContext for HTTPS requests in an HTTPS proxy doesn't verify
+      certificate hostname for proxy connection
+    cve_id: CVE-2021-28363
+    cve_url: https://github.com/advisories/GHSA-5phf-pp7p-vc2r
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.26.4
+  - name: urllib3's request body not stripped after redirect from 303 status changes
+      request method to GET
+    cve_id: CVE-2023-45803
+    cve_url: https://github.com/advisories/GHSA-g4mx-q9vg-27p4
+    detected_date: Oct 18
+    severity: moderate
+    first_patched: 1.26.18
+  - name: "`Cookie` HTTP header isn't stripped on cross-origin redirects"
+    cve_id: CVE-2023-43804
+    cve_url: https://github.com/advisories/GHSA-v845-jxx5-vc9f
+    detected_date: Oct 3
+    severity: moderate
+    first_patched: 1.26.17
+- name: idna
+  description: Internationalized Domain Names in Applications
+  package_url: https://pypi.org/project/idna
+  version: '2.10'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19863/default_f24e00e4cb7620e436f9d06e0305070e1335922a.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+  vulnerabilities:
+  - name: Internationalized Domain Names in Applications (IDNA) vulnerable to denial
+      of service from specially crafted inputs to idna.encode
+    cve_id: CVE-2024-3651
+    cve_url: https://github.com/advisories/GHSA-jjg7-2v4v-x38h
+    detected_date: Apr 12
+    severity: moderate
+    first_patched: '3.7'
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.25.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+  vulnerabilities:
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: MarkupSafe
+  description: Safely add untrusted strings to HTML/XML markup
+  package_url: https://pypi.org/project/MarkupSafe
+  version: 1.1.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19945/default_0b0a94e1bdf3e64deeccb23892ca2335bdc30e4f.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/294-cryptocurrency-sentiment-analysis/requirements.txt
+  detection_source: screencast/294-cryptocurrency-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-02-06 18:13:03.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/project/click
+  version: 7.1.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: kiwisolver
+  description: A fast implementation of the Cassowary constraint solver
+  package_url: https://pypi.org/project/kiwisolver
+  version: 1.3.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20772/default_b92e3d801a6b8cc7a378e4f7c25f52a138a86391.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 1.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: praw
+  description: PRAW
+  package_url: https://pypi.org/project/praw
+  version: 7.1.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20605/default_3aa7d93e5dadf8a0123c65abeccd198669792007.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: pyparsing
+  description: Python parsing module
+  package_url: https://pypi.org/project/pyparsing
+  version: 2.4.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19881/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/project/python-dateutil
+  version: 2.8.1
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: '2020.5'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: regex
+  description: Alternative regular expression module, to replace re
+  package_url: https://pypi.org/project/regex
+  version: 2020.11.13
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19923/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/project/six
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:05:14.000000000 Z
+- name: tqdm
+  description: Fast, Extensible Progress Meter
+  package_url: https://pypi.org/project/tqdm
+  version: 4.56.0
+  license: MPL-2.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
+- name: websocket-client
+  description: WebSocket client for Python. hybi13 is supported
+  package_url: https://pypi.org/project/websocket-client
+  version: 0.57.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19910/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: https://github.com/vidalpaul/eattheblocks/blob/master/screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  detection_source: screencast/290-wallstreetbets-sentiment-analysis/requirements.txt
+  last_updated_by: Julien Klepatch
+  last_updated_on: 2021-01-30 12:08:10.000000000 Z
